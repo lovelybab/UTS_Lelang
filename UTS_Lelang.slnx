@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AuctionApi/AuctionApi.csproj" />
+  <Project Path="AuctionSimulator/AuctionSimulator.csproj" />
+</Solution>
